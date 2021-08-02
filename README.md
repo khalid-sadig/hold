@@ -1,6 +1,6 @@
 # Hold
 
-Hold is a Firefox extension that enables users to save their current location on a webpage and get back to the saved location when needed 
+Hold is a Firefox extension that enables users to save their current location on a webpage and get back to the saved location with a press of a button 
 
 ## Demo
 ![Hold Extension Demo](demo/demo.gif)
