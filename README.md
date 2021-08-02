@@ -4,7 +4,7 @@ Hold is a Firefox extension that enables users to save their current location on
 
 ## Platforms
 
-Hold '1.0.0' is developed and tested on Windows, it's probably not going to work with other operating systems due to inconsistency in system command keys between different operating systems.
+Hold version '1.0.0' is developed and tested on Windows, it's probably not going to work with other operating systems due to inconsistency in system command keys between different operating systems.
 
 ## Installation
 
