@@ -1,0 +1,19 @@
+{
+  "name": "hold",
+  "version": "1.0.0",
+  "description": "Hold is a Firefox extension that enables users to save their current location on a webpage and get back to the saved location quickly when needed",
+  "main": "background.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khalid-sadig/hold.git"
+  },
+  "author": "Khalid Sadig",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/khalid-sadig/hold/issues"
+  },
+  "homepage": "https://github.com/khalid-sadig/hold#readme"
+}
