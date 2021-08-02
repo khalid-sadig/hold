@@ -5,7 +5,7 @@
 
     "description": "Hold is a Firefox extension that enables users to save their current location on a webpage and get back to the saved location quickly when needed",
     "browser_action" : {
-        "default_icon": ""
+        "default_icon": "icons/hold-icon.png"
     },
     "background":{
         "scripts" : ["background.js"]
@@ -13,7 +13,7 @@
     "permissions" : ["activeTab"],
 
     "commands" : {
-        "holdSection" : {
+        "holdExtCommand" : {
             "suggested_key": {
                 "default": "Alt+1"
             },
